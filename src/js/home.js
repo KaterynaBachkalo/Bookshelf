@@ -240,11 +240,6 @@ function topFunction() {
   });
 }
 
-// function topToTitle(title) {
-//   // title.onscroll
-//   console.log(title.addEventListener('scroll', e => title.scrollTop));
-// }
-
 function showLoader() {
   loader.classList.remove('is-hidden');
 }
