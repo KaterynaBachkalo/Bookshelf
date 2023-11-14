@@ -130,6 +130,7 @@ function renderMarkupByBtnMore(resp, categoryList) {
 }
 
 // getBooksOfCategory('Advice How-To and Miscellaneous');
+//
 // getBooksOfCategory('Hardcover Fiction');
 
 export function getBooksOfCategory(nameOfCategory) {
